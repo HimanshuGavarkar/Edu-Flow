@@ -1,4 +1,6 @@
-# RFID Attendance System
+<<<<<<< HEAD
+# Edu-Flow
+Automatic Attendance System by using RFID
 
 A comprehensive RFID-based attendance system with Google Sheets integration and dual login system for Government and Teacher roles.
 
@@ -90,3 +92,7 @@ npm run frontend
 ## Development
 
 The system is designed to be simple yet powerful, with all data stored in Google Sheets for easy access and management.
+=======
+# Edu-Flow
+Automatic Attendance System by using RFID
+>>>>>>> 31e17137600832d96e857ea710d66abf0324608c
